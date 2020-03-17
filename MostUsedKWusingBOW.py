@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 10 21:50:23 2020
 
-@author: NTI/Shoaib
+author: NTI/Shoaib
 """
 
 # -*- coding: utf-8 -*-
